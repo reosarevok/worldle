@@ -142,6 +142,38 @@ const resources = {
       buyMeACoffee: "Ofrézcame un ☕ !",
     },
   },
+  et: {
+    translation: {
+      placeholder: "Riik, territoorium...",
+      guess: "Arva ära",
+      share: "Jaga",
+      showOnGoogleMaps: "👀 Google Mapsis",
+      welldone: "Hea töö!",
+      unknownCountry: "Tundmatu riik!",
+      copy: "Tulemused kopeeritud lõikelauale",
+      showCountry: "🗺️ Näita kaarti!",
+      cancelRotation: "🌀 Tühista pöörlemine",
+      settings: {
+        title: "Seaded",
+        distanceUnit: "Pikkusühik",
+        theme: "Teema",
+        difficultyModifiers: "Raskusastme seaded",
+        startingNextDay: "Homsest alates!",
+        noImageMode: "Peida riigikuju, et ära arvamine oleks raskemaks.",
+        rotationMode: "Pööra juhuslikult riigi pilti.",
+      },
+      stats: {
+        title: "Statistika",
+        played: "Mängitud",
+        win: "Võidu %",
+        currentStreak: "Praegune võiduseeria",
+        maxStreak: "Pikim võiduseeria",
+        averageBestDistance: "Keskmine parim kaugus",
+        guessDistribution: "Arvamiste jaotus:",
+      },
+      buyMeACoffee: "Osta mulle ☕!",
+    },
+  },
   eu: {
     translation: {
       placeholder: "Estatua, herrialdeak...",
