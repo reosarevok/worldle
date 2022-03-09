@@ -34,7 +34,7 @@ const resources = {
       },
       install: {
         title: "Worldle",
-        descritpionTitle: "App Install:",
+        descriptionTitle: "App Install:",
         description: "Add Worldle to Home Screen to play it easily!",
         instructionTitle: "Instructions:",
         instructionActionOk: "OK",
@@ -87,7 +87,7 @@ const resources = {
       },
       install: {
         title: "Worldle",
-        descritpionTitle: "Installer l'app:",
+        descriptionTitle: "Installer l'app:",
         description:
           "Ajouter Worldle sur l'écran d'accueil pour le retrouver plus facilement !",
         instructionTitle: "Instructions :",

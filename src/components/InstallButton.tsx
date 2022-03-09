@@ -9,7 +9,7 @@ interface InstallButtonProps {
     features?: React.ReactNode;
     featuresTitle?: string;
     description?: string;
-    descritpionTitle?: string;
+    descriptionTitle?: string;
     instructionTitle?: string;
     instructionActionOk?: string;
     instructionActionCancel?: string;
@@ -36,7 +36,7 @@ export function InstallButton({ pwaInstall }: InstallButtonProps) {
       onClick={() =>
         pwaInstall({
           title: t("install.title"),
-          descritpionTitle: t("install.descritpionTitle"),
+          descriptionTitle: t("install.descriptionTitle"),
           description: t("install.description"),
           instructionTitle: t("install.instructionTitle"),
           instructionActionOk: t("install.instructionActionOk"),
